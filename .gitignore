@@ -4,3 +4,12 @@ obj
 
 # mstest test results
 TestResults
+
+# output folders
+Debug
+Release
+
+# solution options
+*.suo
+
+
